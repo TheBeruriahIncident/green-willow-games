@@ -1,0 +1,22 @@
+.nav {
+  padding-top: 4px;
+  background-color: #555555;
+}
+
+.nav a {
+  color: #ffffff;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 10px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+
+footer {
+    color: #ffffff;
+    background: #555555;
+    padding: 10px 0 5px 0;
+}
