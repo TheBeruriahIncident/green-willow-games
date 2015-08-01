@@ -2,11 +2,11 @@
 <html>
   <head>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="/main.css">
 
     <link rel="icon"
       type="image/png"
-      href="favicon.png">
+      href="/favicon.png">
   </head>
 
   <body>
@@ -33,21 +33,21 @@
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
-              <img src="team/elizabeth.jpg" class="img-responsive img-circle" alt="">
+              <img src="/headshots/elizabeth.jpg" class="img-responsive img-circle" alt="">
               <h4>Elizabeth Ballou</h4>
               <p class="text-muted">Creative Director</p>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-                <img src="team/adam.jpg" class="img-responsive img-circle" alt="">
+                <img src="/headshots/adam.jpg" class="img-responsive img-circle" alt="">
                 <h4>Adam Campbell</h4>
                 <p class="text-muted">Producer and Programmer</p>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img src="team/wendi.jpg" class="img-responsive img-circle" alt="">
+              <img src="/headshots/wendi.jpg" class="img-responsive img-circle" alt="">
               <h4>Wendi Chen</h4>
               <p class="text-muted">Art Director</p>
             </div>
@@ -57,21 +57,21 @@
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
-              <img src="team/joseph.jpg" class="img-responsive img-circle" alt="">
+              <img src="/headshots/joseph.jpg" class="img-responsive img-circle" alt="">
               <h4>Joseph Schefer</h4>
               <p class="text-muted">Composer and Sound Designer</p>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-                <img src="team/anne.jpg" class="img-responsive img-circle" alt="">
+                <img src="/headshots/anne.jpg" class="img-responsive img-circle" alt="">
                 <h4>Anne Lantz</h4>
                 <p class="text-muted">Animator and Rigger</p>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img src="team/david.jpg" class="img-responsive img-circle" alt="">
+              <img src="/headshots/david.jpg" class="img-responsive img-circle" alt="">
               <h4>David Reinhold</h4>
               <p class="text-muted">3D Modeler</p>
             </div>
@@ -81,21 +81,21 @@
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
-              <img src="team/chad.jpg" class="img-responsive img-circle" alt="">
+              <img src="/headshots/chad.jpg" class="img-responsive img-circle" alt="">
               <h4>Chad Vickers</h4>
               <p class="text-muted">Assistant Producer</p>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-                <img src="team/atthar.png" class="img-responsive img-circle" alt="">
+                <img src="/headshots/atthar.png" class="img-responsive img-circle" alt="">
                 <h4>Atthar Mirza</h4>
                 <p class="text-muted">Filmmaker and Visual Designer</p>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img src="team/andy.jpg" class="img-responsive img-circle" alt="">
+              <img src="/headshots/andy.jpg" class="img-responsive img-circle" alt="">
               <h4>Andy Barron</h4>
               <p class="text-muted">Programmer</p>
             </div>
@@ -105,14 +105,14 @@
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
-              <img src="team/ben.jpg" class="img-responsive img-circle" alt="">
+              <img src="/headshots/ben.jpg" class="img-responsive img-circle" alt="">
               <h4>Ben Bryant</h4>
               <p class="text-muted">2D Artist</p>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-                <img src="team/acacia.jpg" class="img-responsive img-circle" alt="">
+                <img src="/headshots/acacia.jpg" class="img-responsive img-circle" alt="">
                 <h4>Acacia Dai</h4>
                 <p class="text-muted">2D Artist</p>
             </div>
