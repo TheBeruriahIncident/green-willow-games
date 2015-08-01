@@ -3,7 +3,15 @@
   background-color: #555555;
 }
 
-.nav a {
+.nav .pull-left a {
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  padding: 10px 10px;
+  text-transform: uppercase;
+}
+
+.nav .pull-right a {
   color: #ffffff;
   font-size: 11px;
   font-weight: bold;
@@ -19,6 +27,21 @@
   background: url("cover.jpg");
   background-size: cover;
   min-height: 1000px;
+}
+
+.text-center p {
+  font-size: 17px;
+}
+
+.vcenter p {
+  font-size: 17px;
+}
+
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+  margin: 40px 0;
 }
 
 footer {
