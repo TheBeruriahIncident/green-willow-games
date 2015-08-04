@@ -1,3 +1,6 @@
+---
+---
+
 body {
   background-color: #f8f8f8;
 }
@@ -11,7 +14,7 @@ body {
 }
 
 .banner {
-  background: url("/img/cover.jpg");
+  background: url("{{site.baseurl}}/img/cover.jpg");
   background-size: cover;
   background-position: center right;
   height: 1000px;
@@ -19,11 +22,14 @@ body {
 }
 
 .team-member {
-  min-height: 30em;
+  min-height: 35em;
+  margin-bottom: 2em;
 }
 
 .headshot {
-  max-width: 100%;
-  max-height: 20em;
-  border-radius: 20px;
+  height: 30em;
+  background-size: cover;
+  background-position: center center;
+  /*border-radius: 50%;*/
+  border: 2px solid black;
 }
